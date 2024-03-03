@@ -1,0 +1,26 @@
+{
+    "workout": [
+        {
+            "date": [
+                "03/02/24"
+            ],
+            "time": [
+                "15:16:30"
+            ],
+            "exercise": "ran",
+            "duration": 20,
+            "calories": 212.33
+        },
+        {
+            "date": [
+                "03/02/24"
+            ],
+            "time": [
+                "15:16:30"
+            ],
+            "exercise": "walk",
+            "duration": 30,
+            "calories": 113.75
+        }
+    ]
+}
